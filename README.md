@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 and welcome! :innocent:
 
-<!--
-**jampopoy/jampopoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my portfolio
+- 🌱 I’m currently learning new Back End Development
+- 👯 I’m looking to collaborate on anything React Native related!
+- 🤔 I’m looking for a job right now :raised_hand::raised_hand:
+- 💬 Ask me about anything around the sun :sunglasses::sunglasses::sunglasses:
+- 📫 How to reach me: jam.delmundo@hotmail.com :email:
+- ⚡ Fun fact: stuck in tutorial hell!!! 
+:smiling_imp:
+:smiling_imp:
+:smiling_imp:
 
-Here are some ideas to get you started:
+Projects that I'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+==React Native Apps==
+
+--> https://github.com/jampopoy/finale
+--> https://github.com/jampopoy/Quiz
